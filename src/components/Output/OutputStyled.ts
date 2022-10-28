@@ -20,6 +20,7 @@ export const Title = styled.div`
 
 export const ResultArea = styled.div`
   width: 100%;
+  padding: 1rem;
   height: 100%;
   border: none;
 

@@ -20,10 +20,12 @@ export const Title = styled.div`
 `;
 
 export const TextArea = styled.textarea`
-  width: 100%;
-  height: 100%;
   resize: none;
   border: none;
   outline: none;
   font-size: 17px;
+
+  min-height: 40vh;
+  width: 100%;
+height: 100%;
 `;
