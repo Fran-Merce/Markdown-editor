@@ -9,4 +9,4 @@ Markdown editor with preview made with React, Typescript and styed components
 https://markdown-editor-wine.vercel.app/
 
 ## Run Local
-If you want to run local just clone de repo and install depencies with yarn
+If you want to run local just clone the repo and install depencies with yarn
